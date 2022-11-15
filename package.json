@@ -9,6 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "bootstrap": "^5.2.2",
+    "bootstrap-next": "^1.0.5",
     "next": "13.0.0",
     "react": "18.2.0",
     "react-dom": "18.2.0"
